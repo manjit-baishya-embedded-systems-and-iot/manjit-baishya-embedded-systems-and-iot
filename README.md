@@ -20,9 +20,11 @@
 
 <!-- About Me -->
 <h1>About Me 👨‍🎓</h1>
-<h4>Driven former Electronics and Communication Engineering student transitioning to the field of Data Science. 
-    <br>Passionate about leveraging analytical skills and technical background to extract insights from data 
-    <br>and solve real-world problems. Currently working on personal projects to level up my skills.</h4>
+<h4>Hi there! I'm Manit Baishya, an ECE grad transitioning to Data Science. 
+<br>Passionate about using analytical skills to solve real-world problems. 
+<br>Currently diving into Embedded Systems and IoT, gearing up for 
+<br>Embedded Machine Learning. Excited to share my journey and collaborate
+<br>on impactful projects!</h4>
 
 <!-- Social Profiles -->
 <div> 
