@@ -1,4 +1,5 @@
 <!-- Hero Image -->
+![Languages](/assets/Header.png)
 
 <!-- Greeting Message -->
 <h1 align="center">
@@ -6,15 +7,15 @@
 </h1>
 
 <!-- Subtitle -->
-<h2 align="center"> 🌟 ECE Student from NE India 🌟 </h2>
+<h2 align="center"> 🌟 ECE Student from India 🌟 </h2>
 
 <!-- List -->
 <h4>
-    <li> 📌 Assam, India </li>
-    <li> 👨‍🎓 ECE Graduate </li>
-    <li> 🌱 Learning Embedded Systems - Arduino & Pi </li>
-    <li> 🏢 Currently working on ES projects </li>
-    <li> 🤝 Open to Collaboration on ES and EML!</li>
+    <li> 📌 Guwahati, Assam, India </li>
+    <li> 👨‍🎓 ECE Graduate - Gauhati University</li>
+    <li> 🌱 Learning Embedded Systems, Rust and Micropython</li>
+    <li> 🏢 Currently working on Embedded Systems and IoT Projects </li>
+    <li> 🤝 Interested in Embedded Systems and Embedded Machine Learning!</li>
 </h4>
 
 <!-- About Me -->
@@ -37,8 +38,8 @@
 <!-- Languages and Libraries -->
 <h1>Languages 🖊</h1>
 
-<!-- ![Asset 13](https://github.com/manjit-baishya-datascience/manjit-baishya-datascience/assets/127611924/e5e9a71f-f28e-49c6-ad4f-ec11fc48c6b2) -->
+![Languages](/assets/Languages.png)
 
-<h1>Libraries ⚒️</h1>
+<h1>Hardware ⚒️</h1>
 
-<!-- ![Asset 12](https://github.com/manjit-baishya-datascience/manjit-baishya-datascience/assets/127611924/8bc0512f-7eb0-47ce-b6b6-cdef11fe8db6) -->
+![Hardware](/assets/Hardware.png)
