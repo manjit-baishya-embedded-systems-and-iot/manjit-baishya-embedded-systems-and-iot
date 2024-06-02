@@ -3,15 +3,12 @@
 
 <!-- Greeting Message -->
 <h1 align="center">
-    Hi, I'm Manjit!👋
+    👋Hi, I'm Manjit!👋
 </h1>
-
-<!-- Subtitle -->
-<h2 align="center"> 🌟 ECE Student from India 🌟 </h2>
 
 <!-- List -->
 <h4>
-    <li> 📌 Guwahati, Assam, India </li>
+    <li> 📌 Guwahati, Assam, India</li>
     <li> 👨‍🎓 ECE Graduate - Gauhati University</li>
     <li> 🌱 Learning Embedded Systems, Rust and Micropython</li>
     <li> 🏢 Currently working on Embedded Systems and IoT Projects </li>
@@ -33,7 +30,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
-
 
 <!-- Languages and Libraries -->
 <h1>Languages 🖊</h1>
